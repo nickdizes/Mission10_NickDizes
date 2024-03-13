@@ -1,0 +1,6 @@
+@mission10_HostAddress = http://localhost:5075
+
+GET {{mission10_HostAddress}}/
+Accept: application/json
+
+###
