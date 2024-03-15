@@ -2988,11 +2988,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nickdizes\\source\\repos\\Mission10_NickDizes\\backend\\Mission10\\mission10.csproj",
+      "projectUniqueName": "C:\\Users\\nickdizes\\source\\repos\\Mission10_NickDizes\\backend\\mission10\\mission10.csproj",
       "projectName": "mission10",
-      "projectPath": "C:\\Users\\nickdizes\\source\\repos\\Mission10_NickDizes\\backend\\Mission10\\mission10.csproj",
+      "projectPath": "C:\\Users\\nickdizes\\source\\repos\\Mission10_NickDizes\\backend\\mission10\\mission10.csproj",
       "packagesPath": "C:\\Users\\nickdizes\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nickdizes\\source\\repos\\Mission10_NickDizes\\backend\\Mission10\\obj\\",
+      "outputPath": "C:\\Users\\nickdizes\\source\\repos\\Mission10_NickDizes\\backend\\mission10\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

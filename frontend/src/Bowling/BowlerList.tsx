@@ -1,6 +1,7 @@
 import { useEffect, useState } from 'react';
 import { BowlerResponse } from '../Types/BowlerResponse';
 
+//formats the name so that it doesn't look funky when a person doesnt have a middle initial
 function FormatName(fName: string, mInitial: string | null, lName: string) {
   var formattedName = '';
   if (mInitial) {
@@ -11,6 +12,7 @@ function FormatName(fName: string, mInitial: string | null, lName: string) {
   return formattedName;
 }
 
+//Fetches the data from the backend API
 function BowlerList() {
   const [bowlerData, setBowlerData] = useState<BowlerResponse[]>([]);
 
